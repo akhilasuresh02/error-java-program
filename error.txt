@@ -25,6 +25,7 @@ break;
 if(i==j)
 {
 System.out.print("  "+i);
+System.out.print("  "+i);
 }
 
 }
